@@ -12,3 +12,5 @@ Serial = 1
 Realizando una suma 1 + 1 = 2 
 
 Serial + Serial = 2   como es esto ????? porque Serial es una constante que devuelve un valor 1 
+
+Me demore semanas en encontrar todos los valores ocultos que existen para programar y que ninguna otra persona no pueda entender el codigo es una investigacion mia realizada hace 4 años
