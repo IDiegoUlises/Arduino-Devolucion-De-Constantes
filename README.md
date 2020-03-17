@@ -13,5 +13,5 @@ suma = HIGH + LOW = 1
 
 Es equivalente a este funcion
 
-suma = 1 + 0
+suma = 1 + 0 = 1
 
