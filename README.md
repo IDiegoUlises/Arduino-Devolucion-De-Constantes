@@ -7,7 +7,7 @@ por ejemplo la constante LOW es igual a cero y HIGH equivale a uno
 LOW = 0  
 HIGH = 1 
 
-Se puede implementar en una funcion 
+Se puede implementar para una funcion 
 
 suma = HIGH + LOW = 1
 
