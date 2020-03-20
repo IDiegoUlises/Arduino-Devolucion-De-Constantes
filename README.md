@@ -10,7 +10,7 @@ HIGH = 1
 LOW = 0 
 ```
 
-Realizando la funcion suma
+## Realizando la funcion suma
 
 ``` c++
 int suma = 1 + 0 
@@ -22,7 +22,7 @@ Realizando la funcion suma utilizando constantes
 int suma = HIGH + LOW
 ``` 
 
-Declarar un puerto comunmente
+## Declarar un puerto
 
 ```c++
 int puerto = 1
@@ -39,7 +39,7 @@ pinMode(HIGH, OUTPUT);
 
 ```
 
-Comparando numeros
+## Comparacion de variables
 ```c++
 int valor = 1;
 int sensor = 1;
@@ -50,7 +50,7 @@ if(valor == sensor)
 
 ```
 
-comparar utilizando una constante
+Comparacion de variables utilizando una constante
 ```c++
 int sensor = 1;
 
