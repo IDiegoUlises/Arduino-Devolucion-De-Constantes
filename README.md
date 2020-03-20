@@ -2,7 +2,7 @@
 
 Existen variables que devulven un valor constante y son utilizadas para comparar o crear nuevas variables disminuyendo la cantidad de bytes utilizados al estar definidas no necesitan crear nuevas variable ademas son utilizadas para dificultar la lectura del codigo fuente. 
 
-La constante ```HIGH``` es un uno y ```LOW``` es un cero
+* La constante ```HIGH``` es un uno y ```LOW``` es un cero
 
 
 ``` c++
