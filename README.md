@@ -16,7 +16,7 @@ Realizando una suma
 int suma = 1 + 0 
 ``` 
 
-Implementada una suma utilizando constantes
+Implementada en una suma utilizando constantes
 
 ```c++
 int suma = HIGH + LOW
