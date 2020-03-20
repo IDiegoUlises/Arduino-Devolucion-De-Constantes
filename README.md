@@ -9,13 +9,13 @@ HIGH = 1
 LOW = 0 
 ```
 
-## Realizando la funcion suma
+## Realizando la funcion sumar
 
 ``` c++
 int suma = 1 + 0 
 ``` 
 
-**Realizando la funcion suma utilizando constantes**
+**Realizando la funcion suma utilizando las constantes**
 
 ```c++
 int suma = HIGH + LOW
