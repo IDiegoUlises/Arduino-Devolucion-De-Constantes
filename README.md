@@ -5,9 +5,10 @@ Existen variables que devulven un valor constante y esta es utilizada para compa
 La constante ```HIGH``` es equivalente a uno y ```LOW``` es equivalente a cero
 
 
-``` HIGH = 1 ```
-
-```LOW = 0 ```
+``` 
+HIGH = 1
+LOW = 0 
+```
 
 Se puede implementar para una funcion 
 
