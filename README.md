@@ -59,7 +59,7 @@ if(HIGH == sensor)
 
 ```
 
-## Como Ocupan menos espacio
+## ¿Porque Ocupan menos espacio?
 Al ya estar estas palabras definidas estas constantes no necesitan ser creadas porque ya estan creadas podemos ahorrar espacio en la memoria del arduino al no tener que crear nuevas variables.
 
 al crear una variable tipo int ocupa 2 bytes en memoria
