@@ -10,11 +10,14 @@ HIGH = 1
 LOW = 0 
 ```
 
-Se puede implementar para una funcion 
+Realizando una suma
 
-suma = HIGH + LOW = 1
+``` suma = 1 + 0 ``` 
 
-Es equivalente a este funcion
+Implementada una suma utilizando constantes
 
-suma = 1 + 0 = 1
+``` 
+suma = HIGH + LOW
+``` 
+
 
