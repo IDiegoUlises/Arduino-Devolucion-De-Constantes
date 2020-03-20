@@ -2,8 +2,7 @@
 
 Existen variables que devulven un valor constante y son utilizadas para comparar o crear nuevas variables disminuyendo la cantidad de bytes utilizados al estar definidas no necesitan crear nuevas variable ademas son utilizadas para dificultar la lectura del codigo fuente. 
 
-* La constante ```HIGH``` es un uno y ```LOW``` es un cero
-
+La constante ```HIGH``` es un uno y ```LOW``` es un cero
 
 ``` c++
 HIGH = 1
@@ -59,6 +58,19 @@ if(HIGH == sensor)
 }
 
 ```
+
+## Como Ocupan menos espacio
+Al ya estar estas palabras definidas estas constantes no necesitan ser creadas porque ya estan creadas podemos ahorrar espacio en la memoria del arduino al no tener que crear nuevas variables.
+
+al crear una variable tipo int ocupa 2 bytes en memoria
+```c++
+int numero = 1;
+```
+
+
+
+
+
 
 
 
