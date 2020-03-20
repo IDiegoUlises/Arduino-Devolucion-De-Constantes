@@ -1,11 +1,13 @@
 # Arduino Devulucion De Constantes
 
-Existen variables que devulven un valor constante y esta puede ser utilizada para comparar o crear variables dismuniyendo la cantidad de bytes utilizado al ya estar definidas no necesitan ser creadas ademas pueden ser utilizado para dificultar la lectura del codigo fuente. 
+Existen variables que devulven un valor constante y esta es utilizada para comparar o crear nuevas variables disminuyendo la cantidad de bytes utilizados al estar definidas las variables no necesitan ser creadas de nuevo, pueden ser utilizado para dificultar la lectura del codigo fuente. 
 
-por ejemplo la constante LOW es igual a cero y HIGH equivale a uno
+La constante ```HIGH``` es equivalente a uno y ```LOW``` es equivalente a cero
 
-LOW = 0  
-HIGH = 1 
+
+``` HIGH = 1 ```
+
+```LOW = 0 ```
 
 Se puede implementar para una funcion 
 
