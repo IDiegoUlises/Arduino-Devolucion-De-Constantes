@@ -22,4 +22,20 @@ Realizando una suma utilizando constantes
 int suma = HIGH + LOW
 ``` 
 
+Declarar un puerto comunmente
+
+```c++
+int puerto = 1
+
+pinMode(1, OUTPUT);
+
+``` 
+
+Declarar un puerto con constantes
+
+```c++
+
+pinMode(HIGH, OUTPUT);
+
+``` 
 
