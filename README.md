@@ -16,7 +16,7 @@ LOW = 0
 int suma = 1 + 0 
 ``` 
 
-Realizando la funcion suma utilizando constantes
+**Realizando la funcion suma utilizando constantes**
 
 ```c++
 int suma = HIGH + LOW
@@ -31,7 +31,7 @@ pinMode(1, OUTPUT);
 
 ``` 
 
-Declarar un puerto con una constante
+**Declarar un puerto con una constante**
 
 ```c++
 
