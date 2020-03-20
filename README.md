@@ -50,7 +50,7 @@ if(valor == sensor)
 
 ```
 
-Comparacion de variables utilizando una constante
+**Comparacion de variables utilizando una constante**
 ```c++
 int sensor = 1;
 
