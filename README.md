@@ -13,13 +13,13 @@ LOW = 0
 Realizando una suma
 
 ``` 
-suma = 1 + 0 
+int suma = 1 + 0 
 ``` 
 
 Implementada una suma utilizando constantes
 
 ``` 
-suma = HIGH + LOW
+int suma = HIGH + LOW
 ``` 
 
 
