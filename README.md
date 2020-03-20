@@ -12,7 +12,9 @@ LOW = 0
 
 Realizando una suma
 
-``` suma = 1 + 0 ``` 
+``` 
+suma = 1 + 0 
+``` 
 
 Implementada una suma utilizando constantes
 
