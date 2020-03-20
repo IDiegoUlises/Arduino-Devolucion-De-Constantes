@@ -67,6 +67,9 @@ al crear una variable tipo int ocupa 2 bytes en memoria
 int numero = 1;
 ```
 
+## Todas las constantes que devuelven valor
+Existen un 253/2 de constante que devuelven un valor constante 
+
 
 
 
