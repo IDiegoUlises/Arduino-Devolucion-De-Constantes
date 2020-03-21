@@ -67,7 +67,7 @@ Al ya estar estas constantes creadas no necesitan ser nuevamente creadas porque 
 int numero = 1;
 ```
 
-## Todas las constantes que devuelven valor
+## Todas las constantes que devuelven un valor
 
 
 
