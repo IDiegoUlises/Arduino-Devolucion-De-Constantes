@@ -68,7 +68,7 @@ int numero = 1;
 ```
 
 ## Todas las constantes que devuelven valor
-* Existen un 253/2 de constante encontradas 
+
 
 
 
