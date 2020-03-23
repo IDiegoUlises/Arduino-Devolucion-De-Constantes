@@ -67,9 +67,9 @@ Al ya estar estas constantes creadas no necesitan ser nuevamente creadas porque 
 int numero = 1;
 ```
 
-## Todas las constantes que devuelven un valor
+## Constantes que Devuelven un Valor
 
-## Constantes probadas que no devuelven ningun valor
+## Constantes que no Devuelven valor
 
 
 
