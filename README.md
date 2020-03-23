@@ -69,6 +69,8 @@ int numero = 1;
 
 ## Todas las constantes que devuelven un valor
 
+## Constantes probadas que no devuelven ningun valor
+
 
 
 
