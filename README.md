@@ -69,7 +69,7 @@ int numero = 1;
 
 ## Constantes que Devuelven un Valor
 
-## Constantes que no Devuelven valor
+## Intrucciones que no Devuelven valor
 
 
 
