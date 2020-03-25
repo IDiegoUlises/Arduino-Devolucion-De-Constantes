@@ -24,7 +24,7 @@ int suma = HIGH + LOW
 ## Declarar un puerto
 
 ```c++
-int puerto = 1
+int puerto = 1;
 
 pinMode(1, OUTPUT);
 
