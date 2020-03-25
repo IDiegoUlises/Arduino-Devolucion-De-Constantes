@@ -12,13 +12,13 @@ LOW = 0
 ## Realizando una funcion de suma
 
 ``` c++
-int suma = 1 + 0 
+int suma = 1 + 0;
 ``` 
 
 **Realizando una funcion de suma utilizando las constantes**
 
 ```c++
-int suma = HIGH + LOW
+int suma = HIGH + LOW;
 ``` 
 
 ## Declarar un puerto
