@@ -92,7 +92,7 @@ TWO_PI = 6.28
 
 ```
 
-**Puertos**
+**Puertos digitales**
 
 ```c++
 DDRB = 0
