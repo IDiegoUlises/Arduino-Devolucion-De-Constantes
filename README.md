@@ -74,6 +74,7 @@ int numero = 1;
 
 # Borrador
 
+```c++
 INPUT = 0
 OUTPUT = 1
 CHANGE = 1 
@@ -89,7 +90,11 @@ PI = 3.14
 HALF_PI = 1.57
 TWO_PI = 6.28
 
+```
+
 **Puertos**
+
+```c++
 DDRB = 0
 PINB = 60
 PORTB = 0
@@ -116,8 +121,11 @@ PD4 = 4
 PD5 = 5
 PD6 = 6
 PD7 = 7
+```
 
 **Salida analogicas**
+
+```c++
 A0 = 14
 A1 = 15
 A2 = 16
@@ -143,7 +151,6 @@ MSBFIRST = 1
 
 
 
-
-
+```
 
 
