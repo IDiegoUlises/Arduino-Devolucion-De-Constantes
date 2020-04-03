@@ -155,7 +155,8 @@ MSBFIRST = 1
 
 Cosas + que investigar + mas repositorios
 
-Arduino incorpora un sensor interno de temperatura en el chip..
+* Arduino incorpora un sensor interno de temperatura en el chip..
+* REINCIAR EL ARDUINO ELECTRICAMENTE PIN RESET
 
 Se puede cambiar todos los puertos del arduino en solo una palabra sin utilizar digitalwrite(); como PORT = 0233435; y se pueden apagar o prender cada puerto con una sola instruccion! aclarar que la gran diferencia de esto es la velocidad en la cual se procesa porque cuando se hace con digitalwrite(); se demora su tiempo mientras con PORT = 03845; se demora en cuestion de microsegundos que aparte paraa cambiar todos los puertos en toda una intruccion es utilizado para en las comunicaciones en caso que queramos crear un protocolo desde cero para tranferidad datos a una mayor velocidad 
 
